@@ -33,6 +33,9 @@
 			<ul>
 				<li>Results</li>
 				<li>Profile</li>
+				<li>Contact</li>
 			</ul>
 		</nav>
 	</header>
+<div class="main">
+	

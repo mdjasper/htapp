@@ -4,11 +4,11 @@
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
 }
 
 html { 
+	margin: 0;
+	padding: 0;
 	background: url(/assets/images/church-vertical.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -16,8 +16,46 @@ html {
 	background-size: cover;
 }
 
-@media (min-width: 700px) {
-	html { 
-		background: url(/assets/images/church-horizontal.jpg) no-repeat center center fixed;
-	}
+body {
+	margin: 0;
 }
+
+/* HEADER */
+.header {
+	background: rgb(189, 73, 50);
+}
+.header ul {
+	margin: 0;
+}
+
+.main {
+	padding: 20px;
+}
+
+/* white = rgb(255, 250, 213);
+   blue = rgb(16, 91, 99);
+   yellow = rgb(255, 211, 78);
+   orange = rgb(219, 158, 54);
+   red = rgb(189, 73, 50);
+   */
+
+
+
+
+
+
+
+   /* FOOTER */
+   .footer {
+   	background: rgb(189, 73, 50);
+   }
+   .footer ul {
+   	margin: 0;
+   }
+
+   /* MEDIA QUERIES */
+   @media (min-width: 700px) {
+   	html { 
+   		background: url(/assets/images/church-horizontal.jpg) no-repeat center center fixed;
+   	}
+   }
