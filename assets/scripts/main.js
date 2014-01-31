@@ -106,3 +106,12 @@ $(function () {
     });
 });
 
+  // SELECTS
+  $('select').each(function() {
+    var self = $(this),
+        label = self.find('option:first-child').text();
+    self.wrap('<span class="select" />')
+        .before('<span class="select-text">' + label + '</span>');
+  }).on('change', function() {
+    $(this).prev().text($(this).find('option:selected').text());
+  });
