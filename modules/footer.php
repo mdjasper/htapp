@@ -2,8 +2,8 @@
 <footer class="footer">
 	<ul>
 		<li><a href="index.php">Leadboard</a></li>
-		<li><a href="profile.php">My Profile</a></li>
 		<li><a href="report.php">Report</a></li>
+		<li><a href="profile.php">My Profile</a></li>
 	</ul>
 	<p>&copy; 2014 The Teal Team</p>
 </footer>

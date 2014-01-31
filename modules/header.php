@@ -35,8 +35,8 @@
 			<nav class="nav">
 				<ul>
 					<li><a href="index.php">Leadboard</a></li>
-					<li><a href="profile.php">My Profile</a></li>
 					<li><a href="report.php">Report</a></li>
+					<li><a href="profile.php">My Profile</a></li>
 				</ul>
 			</nav>
 		</header>
