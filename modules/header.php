@@ -29,9 +29,9 @@
 	<header class="header">
 		<nav class="nav">
 			<ul>
+				<li><a href="contact.php">Home</a></li>
 				<li><a href="results.php">Results</a></li>
 				<li><a href="profile.php">Profile</a></li>
-				<li><a href="contact.php">Contact</a></li>
 			</ul>
 		</nav>
 	</header>
