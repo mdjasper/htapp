@@ -54,9 +54,19 @@ textarea {
 	display: table;
 	clear: both;
 }
+.header figure {
+	float: left;
+	width: 25%;
+	color: rgb(255, 250, 213);
+}
+.header img {
+	width: 100%;
+}
 .header ul {
+	float: left;
 	margin: 0;
 	list-style-type: none;
+	width: 60%;
 	padding-left: 0;
 }
 .header li {
@@ -116,9 +126,6 @@ textarea {
 	text-decoration: none;
 }
 
-rect[Attributes Style] {
-	fill: rgb(189, 73, 50) !important;
-}
 
 /* MEDIA QUERIES */
 @media (min-width: 700px) {
