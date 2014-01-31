@@ -15,8 +15,8 @@
 	<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1"/>
 	-->
 
-	<link rel="stylesheet" href="/assets/styles/main.css" media="all"/>
-	<link rel="shortcut icon" href="/assets/images/favicon.ico"/>
+	<link rel="stylesheet" href="assets/styles/main.css" media="all"/>
+	<link rel="shortcut icon" href="assets/images/favicon.ico"/>
 	<script src="http://code.highcharts.com/highcharts.js"></script>
 	<script src="http://code.highcharts.com/modules/exporting.js"></script>
 
@@ -31,9 +31,9 @@
 	<header class="header">
 		<nav class="nav">
 			<ul>
-				<li><a href="/results/">Results</a></li>
-				<li><a href="/profile/">Profile</a></li>
-				<li><a href="/contact">Contact</a></li>
+				<li><a href="results.php">Results</a></li>
+				<li><a href="profile.php">Profile</a></li>
+				<li><a href="contact.php">Contact</a></li>
 			</ul>
 		</nav>
 	</header>
