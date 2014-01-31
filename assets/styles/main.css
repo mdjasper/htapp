@@ -60,7 +60,7 @@ textarea {
 	color: rgb(255, 250, 213);
 }
 .header img {
-	width: 100%;
+	max-height: 36px;
 }
 .header ul {
 	float: left;
