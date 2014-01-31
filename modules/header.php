@@ -17,6 +17,8 @@
 
 	<link rel="stylesheet" href="/assets/styles/main.css" media="all"/>
 	<link rel="shortcut icon" href="/assets/images/favicon.ico"/>
+	<script src="http://code.highcharts.com/highcharts.js"></script>
+	<script src="http://code.highcharts.com/modules/exporting.js"></script>
 
 	<!--[if lt IE 9]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
