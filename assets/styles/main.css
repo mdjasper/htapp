@@ -1,3 +1,9 @@
+/*white = rgb(255, 250, 213);*/
+/*blue = rgb(16, 91, 99);*/
+/*yellow = rgb(255, 211, 78);*/
+/*orange = rgb(219, 158, 54);*/
+/*red = rgb(189, 73, 50);*/
+
 *,
 *:before,
 *:after {
@@ -24,20 +30,30 @@ body {
 .header {
 	background: rgb(189, 73, 50);
 }
+.header:after {
+	content: "";
+	display: table;
+	clear: both;
+}
 .header ul {
 	margin: 0;
+	list-style-type: none;
+	padding-left: 0;
+}
+.header li {
+	float: left;
+	width: 33.3333%;
+	text-align: center;
+}
+.header li a {
+	text-decoration: none;
+	color: rgb(255, 250, 213);
 }
 
 .main {
 	padding: 20px;
 }
 
-/* white = rgb(255, 250, 213);
-   blue = rgb(16, 91, 99);
-   yellow = rgb(255, 211, 78);
-   orange = rgb(219, 158, 54);
-   red = rgb(189, 73, 50);
-   */
 
 
 
@@ -45,17 +61,34 @@ body {
 
 
 
-   /* FOOTER */
-   .footer {
-   	background: rgb(189, 73, 50);
-   }
-   .footer ul {
-   	margin: 0;
-   }
 
-   /* MEDIA QUERIES */
-   @media (min-width: 700px) {
-   	html { 
-   		background: url(/assets/images/church-horizontal.jpg) no-repeat center center fixed;
-   	}
-   }
+/* FOOTER */
+.footer {
+	background: rgb(189, 73, 50);
+}
+.footer:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+.footer ul {
+	list-style-type: none;
+	margin: 0;
+	padding-left: 0;
+}
+.footer li {
+	float: left;
+	width: 33.3333%;
+	text-align: center;
+}
+.footer li a {
+	text-decoration: none;
+	color: rgb(255, 250, 213);
+}
+
+/* MEDIA QUERIES */
+@media (min-width: 700px) {
+	html { 
+		background: url(/assets/images/church-horizontal.jpg) no-repeat center center fixed;
+	}
+}

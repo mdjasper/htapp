@@ -1,9 +1,9 @@
 </div>
 <footer class="footer">
 	<ul>
-		<li>Results</li>
-		<li>Profile</li>
-		<li>Contact</li>
+		<li><a href="/results/">Results</a></li>
+		<li><a href="/profile/">Profile</a></li>
+		<li><a href="/contact">Contact</a></li>
 	</ul>
 </footer>
 
