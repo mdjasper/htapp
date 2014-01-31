@@ -1,3 +1,6 @@
+.leaderboard{
+	width:100%;
+}
 .leaderboard thead td{
 	font-size:18px;
 }
@@ -12,6 +15,8 @@
 	height:30px;
 	border-radius:25px;
 	display:inline-block;
+	border:1px solid rgba(255, 255, 255, 1);
+	margin:1px;
 }
 
 .badge--sun{

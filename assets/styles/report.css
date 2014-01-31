@@ -1,5 +1,9 @@
-.report{}
-.report td{}
-.report--check{
-	width:20px;
+.report{
+	border:1px solid #999;
+	background:#fff;
+	border-radius:10px;
+	padding:10px;
+	margin:0 auto;
+	margin-bottom:10px;
 }
+.report td{}
