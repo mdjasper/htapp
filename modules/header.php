@@ -16,6 +16,8 @@
 	-->
 
 	<link rel="stylesheet" href="assets/styles/main.css" media="all"/>
+	<link rel="stylesheet" href="assets/styles/report.css" media="all"/>
+	<link rel="stylesheet" href="assets/styles/leaderboard.css" media="all"/>
 	<link rel="shortcut icon" href="assets/images/favicon.ico"/>
 
 	<!--[if lt IE 9]>
@@ -29,9 +31,9 @@
 	<header class="header">
 		<nav class="nav">
 			<ul>
-				<li><a href="results.php">Results</a></li>
-				<li><a href="profile.php">Profile</a></li>
-				<li><a href="contact.php">Contact</a></li>
+				<li><a href="index.php">Leadboard</a></li>
+				<li><a href="profile.php">My Profile</a></li>
+				<li><a href="report.php">Report</a></li>
 			</ul>
 		</nav>
 	</header>

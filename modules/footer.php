@@ -1,9 +1,9 @@
 </div>
 <footer class="footer">
 	<ul>
-		<li><a href="results.php">Results</a></li>
-		<li><a href="profile.php">Profile</a></li>
-		<li><a href="contact.php">Contact</a></li>
+		<li><a href="index.php">Leadboard</a></li>
+		<li><a href="profile.php">My Profile</a></li>
+		<li><a href="report.php">Report</a></li>
 	</ul>
 </footer>
 
