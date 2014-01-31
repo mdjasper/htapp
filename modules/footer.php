@@ -7,7 +7,8 @@
 	</ul>
 </footer>
 
-<script defer src="assets/scripts/jquery-1.8.3.min.js"></script>
-<script defer src="assets/scripts/main.js"></script>
+<script src="assets/scripts/jquery-1.8.3.min.js"></script>
+<script src="assets/scripts/highcharts.js"></script>
+<script src="assets/scripts/main.js"></script>
 </body>
 </html>
