@@ -41,7 +41,7 @@
 		<td>
 			<div class="badge badge--star"></div>
 		</td>
-		<td>Brother Jack Smith</td>
+		<td>Brother Joe Smith</td>
 		<td>14</td>
 	</tr>
 
