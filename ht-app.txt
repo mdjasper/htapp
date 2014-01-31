@@ -67,3 +67,86 @@ Needed a hug
 N/A, sent card
 N/A, sent cookies
 N/A, sent meal
+
+
+
+
+
+<select name="menvisittype">
+	<option value="0" selected="selected">Missing in Action</option>
+	<option value="1">Saw in the hallway</option>
+	<option value="2">Over the fence</option>
+	<option value="3">Drive By</option>
+	<option value="41">Halloween</option>
+	<option value="51">New Year's Eve</option>
+	<option value="61">Wave</option>
+	<option value="71">Email</option>
+	<option value="81">Phone Call</option>
+	<option value="91">High Five @ Church</option>
+	<option value="191">Thought taped to the door</option>
+	<option value="291">Crafty Gift</option>
+	<option value="391">Cookies</option>
+	<option value="491">Full Visit</option>
+</select>
+
+<select name="menexcuses">
+	<option value="1" selected="selected">No excuse</option>
+	<option value="0">Wern't home on last day of the month</option>
+	<option value="2">I'm the Bishop</option>
+	<option value="3">BYU/Utah lost, family wouldn't let us in.</option>
+	<option value="41">Superbowl</option>
+	<option value="51">Forgot who my familes are</option>
+	<option value="61">Ensign didn't come this month</option>
+	<option value="71">Too many holidays</option>
+	<option value="81">Family wasn't at church</option>
+	<option value="91">My companion could't go</option>
+	<option value="191">Family was trick or treating/New Year's Eve party</option>
+	<option value="191">Other (specify below)</option>
+</select>
+
+<select name="mfamilystatus">
+	<option value="333" selected="selected">Did not contact</option>
+	<option value="1">Fine</option>
+	<option value="0">Wonderful</option>
+	<option value="2">Doin' good</option>
+	<option value="3">Great</option>
+	<option value="41">No problems</option>
+	<option value="51">Happy</option>
+	<option value="61">Needs help moving tomorrow</option>
+</select>
+
+<select name="wfamilystatus">
+	<option value="333" selected="selected">Wonderful</option>
+	<option value="1">Need Dinner</option>
+	<option value="0">Need more visits</option>
+	<option value="2">Feeling down, lifted her up</option>
+	<option value="3">Lots of juicy gossip</option>
+	<option value="41">Needed a hug</option>
+	<option value="51">Sent a card</option>
+	<option value="61">Need cookies</option>
+	<option value="61">Invited to activity</option>
+</select>
+
+<select name="womenvisittype">
+	<option value="71">Email</option>
+	<option value="81">Phone Call</option>
+	<option value="191">Thought taped to the door</option>
+	<option value="291">Crafty Gift</option>
+	<option value="391">Cookies</option>
+	<option value="491" selected="selected">Full Visit</option>
+</select>
+
+<select name="womenbadges">
+	<option value="100" selected="selected">Celestial</option>
+	<option value="0">Repentant</option>
+</select>
+
+<select name="menbadges">
+	<option value="0" selected="selected">Outer Darkness</option>
+	<option value="1">Spirit Prison</option>
+	<option value="2">Telestial</option>
+	<option value="3">Terrestial</option>
+	<option value="41">Celestial</option>
+</select>
+
+
